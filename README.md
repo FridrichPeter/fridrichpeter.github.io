@@ -1,0 +1,1 @@
+# fridrichpeter.github.io
