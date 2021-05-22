@@ -1,7 +1,7 @@
 # fridrichpeter.github.io
 
 Personal website:
-Peter Fridrich, PONK Coworking
+Peter Fridrich, PONK Coworking Nitra
 
 ## Education
 
