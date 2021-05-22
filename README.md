@@ -1,6 +1,7 @@
 # fridrichpeter.github.io
 
-My personal website
+Personal website:
+Peter Fridrich, PONK Coworking
 
 ## Education
 
@@ -19,4 +20,4 @@ MAPA Slovakia Digital - GIS Specialist
 - Mobile Mapping and LiDAR (Trimble Buisness Center, LasTools, POSPac MMS)
 - PostgreSQL
 - Automate Workflows (FME Desktop, GDAL, Python)
-- HTML5, CSS3, jQuery
+- HTML5, CSS3, jQuery, Leaflet
